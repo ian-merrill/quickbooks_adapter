@@ -12,9 +12,9 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
 This project uses `dev.secret.exs` with the clientid and client secret given by a dev account in quickbooks
 
+```elixir
 import Config
 
-```elixir
  config :quickbooks_adapter, Quickbooks,
  client_id: <client_id>,
  client_secret: <client_secret>,
