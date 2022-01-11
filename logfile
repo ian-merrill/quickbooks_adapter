@@ -1,0 +1,18 @@
+2022-01-06 09:21:23.177 MST [4910] LOG:  starting PostgreSQL 14.1 on x86_64-pc-linux-gnu, compiled by gcc-5 (Ubuntu 5.4.0-6ubuntu1~16.04.12) 5.4.0 20160609, 64-bit
+2022-01-06 09:21:23.177 MST [4910] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2022-01-06 09:21:23.184 MST [4910] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2022-01-06 09:21:23.196 MST [4911] LOG:  database system was interrupted; last known up at 2022-01-05 10:59:10 MST
+2022-01-06 09:21:23.725 MST [4911] LOG:  database system was not properly shut down; automatic recovery in progress
+2022-01-06 09:21:23.730 MST [4911] LOG:  redo starts at 0/17D87B8
+2022-01-06 09:21:23.730 MST [4911] LOG:  invalid record length at 0/17D88A0: wanted 24, got 0
+2022-01-06 09:21:23.730 MST [4911] LOG:  redo done at 0/17D8868 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2022-01-06 09:21:23.755 MST [4910] LOG:  database system is ready to accept connections
+2022-01-11 10:10:53.533 MST [18361] LOG:  starting PostgreSQL 14.1 on x86_64-pc-linux-gnu, compiled by gcc-5 (Ubuntu 5.4.0-6ubuntu1~16.04.12) 5.4.0 20160609, 64-bit
+2022-01-11 10:10:53.534 MST [18361] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2022-01-11 10:10:53.541 MST [18361] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2022-01-11 10:10:53.552 MST [18362] LOG:  database system was interrupted; last known up at 2022-01-10 16:09:46 MST
+2022-01-11 10:10:54.052 MST [18362] LOG:  database system was not properly shut down; automatic recovery in progress
+2022-01-11 10:10:54.056 MST [18362] LOG:  redo starts at 0/17D89C8
+2022-01-11 10:10:54.056 MST [18362] LOG:  invalid record length at 0/17D8A00: wanted 24, got 0
+2022-01-11 10:10:54.056 MST [18362] LOG:  redo done at 0/17D89C8 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2022-01-11 10:10:54.077 MST [18361] LOG:  database system is ready to accept connections
